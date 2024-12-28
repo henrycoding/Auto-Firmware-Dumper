@@ -73,7 +73,7 @@ jobs:
         cd /home
         sudo mkdir mode=777 Auto-Dumper
         cd Auto-Dumper
-        git clone https://github.com/DumprX/DumprX
+        git clone https://github.com/henrycoding/DumprX.git
         cd DumprX
         sudo chmod 777 *.sh
         bash setup.sh
